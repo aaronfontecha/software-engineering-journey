@@ -20,7 +20,9 @@ Los pasos realizados fueron:
     git add .
 9. Guardar la primera versión con un mensaje
     git commit -m "mensaje"
-10. Verificar que no quedaron cambios pendientes.
-11. Revisar el historial de cambios.
+10. Subir los cambios
+    git push
+11. Verificar que no quedaron cambios pendientes.
+12. Revisar el historial de cambios.
     git log
-    
+
