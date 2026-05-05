@@ -1,0 +1,7 @@
+Hoy aprendi comandos basicos de terminal:
+- ls: muestra contenido dentro de una carpeta.
+- cd: me mueve a una carpeta.
+- cd ..: sube un nivel.
+- mkdir: crea una carpeta.
+- New-Item: crea un archivo.
+- pwd: muestra la ruta actual (ubicacion).
