@@ -1,0 +1,26 @@
+En este bloque aprendí que Git sirve para llevar control de versiones de mis archivos y proyectos.
+
+Los pasos realizados fueron:
+
+1. Verificar si Git estaba instalado.
+    git --version
+2. Instalar Git.
+3. Configurar mi nombre y correo.
+    git config --global user.name "Mi Nombre"
+    git config --global user.email "miemail@gmail.com"
+4. Verificar la configuración.
+    git config --global --list
+5. Ubicarme en la carpeta principal del proyecto.
+    pwd
+6. Inicializar Git
+    git init
+7. Revisar el estado
+    git status
+8. Preparar archivos con los cambios para guardarlos
+    git add .
+9. Guardar la primera versión con un mensaje
+    git commit -m "mensaje"
+10. Verificar que no quedaron cambios pendientes.
+11. Revisar el historial de cambios.
+    git log
+    

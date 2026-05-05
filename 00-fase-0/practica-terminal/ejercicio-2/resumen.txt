@@ -5,3 +5,4 @@ Hoy aprendi comandos basicos de terminal:
 - mkdir: crea una carpeta.
 - New-Item: crea un archivo.
 - pwd: muestra la ruta actual (ubicacion).
+- clear/cls: limpiar la terminal.
